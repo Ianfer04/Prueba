@@ -8,3 +8,8 @@
 2025-07-02 18:31:14,293 - INFO - librodiario.py:57 - Transacción agregada: Compra - 100.00 - egreso
 2025-07-02 18:31:14,293 - ERROR - librodiario.py:47 - Monto negativo: -50.0
 2025-07-02 18:31:14,293 - ERROR - librodiario.py:37 - Tipo inválido: otro
+2025-07-02 18:54:01,048 - INFO - librodiario.py:55 - Transacción agregada: Venta - 100.00 - ingreso
+2025-07-02 18:54:01,048 - INFO - librodiario.py:55 - Transacción agregada: Venta - 200.00 - ingreso
+2025-07-02 18:54:01,048 - INFO - librodiario.py:55 - Transacción agregada: Compra - 100.00 - egreso
+2025-07-02 18:54:01,048 - ERROR - librodiario.py:45 - Monto negativo: -50.0
+2025-07-02 18:54:01,048 - ERROR - librodiario.py:35 - Tipo inválido: otro
