@@ -1,1 +1,28 @@
+# Entorno virtual
 venv/
+ENV/
+env/
+.venv/
+
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de exportación
+*.csv
+*.xlsx
+*.json
+
+# Carpetas de pruebas o temporales
+*.bak
+*.tmp
+
